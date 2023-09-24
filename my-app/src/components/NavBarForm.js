@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 import css from "./css/NavBarForm.module.css";
 import NavBarChild from './NavBarChild';
 
